@@ -1,4 +1,4 @@
-import Posts from "./components/Posts"
+import Posts from "./components/Posts";
 
 export default function Home() {
   return (
@@ -11,5 +11,5 @@ export default function Home() {
       </p>
       <Posts />
     </main>
-  )
+  );
 }
