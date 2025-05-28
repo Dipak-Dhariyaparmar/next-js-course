@@ -1,6 +1,6 @@
-import Posts from "./components/Posts"
+import Posts from "./components/Posts";
 
-export const revalidate = 10
+export const revalidate = 10;
 
 export default function Home() {
   return (
@@ -13,5 +13,5 @@ export default function Home() {
       </p>
       <Posts />
     </main>
-  )
+  );
 }
