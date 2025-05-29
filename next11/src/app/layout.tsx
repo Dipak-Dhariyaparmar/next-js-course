@@ -1,15 +1,15 @@
-import './globals.css'
-import Navbar from "./components/Navbar"
+import "./globals.css";
+import Navbar from "./components/Navbar";
 
 export const metadata = {
-  title: 'Next Todos',
-  description: 'Created for practice',
-}
+  title: "Next Todos",
+  description: "Created for practice",
+};
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">
@@ -20,5 +20,5 @@ export default function RootLayout({
         </main>
       </body>
     </html>
-  )
+  );
 }
