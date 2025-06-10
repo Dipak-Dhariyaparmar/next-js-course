@@ -14,3 +14,5 @@ export default function Home() {
     </main>
   );
 }
+
+// this component is a related to page
