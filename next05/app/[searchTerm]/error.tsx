@@ -34,3 +34,4 @@ export default function Error({
     </main>
   );
 }
+// this component is a error related
