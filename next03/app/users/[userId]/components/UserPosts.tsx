@@ -17,3 +17,5 @@ export default async function UserPosts({ promise }: Props) {
 
   return content;
 }
+
+// this component is a user post related
