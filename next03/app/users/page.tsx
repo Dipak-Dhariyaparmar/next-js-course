@@ -32,3 +32,4 @@ export default async function UsersPage() {
 
   return content;
 }
+// this component is a page related
