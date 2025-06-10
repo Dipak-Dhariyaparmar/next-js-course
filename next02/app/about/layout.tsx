@@ -12,3 +12,5 @@ export default function AboutLayout({
     </>
   );
 }
+
+// This component is a layout related
