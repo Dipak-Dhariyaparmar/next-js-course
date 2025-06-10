@@ -41,3 +41,4 @@ export default function Item({ result }: Props) {
 
   return content;
 }
+// this component is a item related
