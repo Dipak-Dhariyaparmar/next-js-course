@@ -8,3 +8,5 @@ export default function Head() {
     </>
   );
 }
+
+// this is a head component
