@@ -12,4 +12,3 @@ export default function RootLayout({
     </html>
   );
 }
-// this component is a layout file
